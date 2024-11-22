@@ -1,0 +1,34 @@
+{
+	"name": "doodstream",
+	"version": "1.0.3",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"doodstream",
+		"api",
+		"video-hosting",
+		"file-upload",
+		"media-upload",
+		"video-sharing",
+		"monetization",
+		"cloud-storage",
+		"video-api",
+		"file-management"
+	],
+	"author": "Rann-Studio",
+	"license": "ISC",
+	"description": "A simple API client for interacting with Doodstream, including file uploads, account management, and more.",
+	"dependencies": {
+		"axios": "^1.7.7"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Rann-Studio/doodstream.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Rann-Studio/doodstream/issues"
+	},
+	"homepage": "https://github.com/Rann-Studio/doodstream#readme"
+}
